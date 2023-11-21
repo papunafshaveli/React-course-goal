@@ -41,7 +41,7 @@ img {
 header h1 {
   margin: 0;
   font-size: 1.75rem;
-  color: #f7e596;
+  color: rgb(227, 37, 7);
 }
 
 label {
@@ -49,7 +49,7 @@ label {
   font-size: 0.85rem;
   font-weight: bold;
   text-transform: uppercase;
-  color: #dfd9be;
+  color: rgb(235, 9, 9);
 }
 
 input {
@@ -66,7 +66,7 @@ form button {
   width: 100%;
   padding: 0.75rem;
   margin-top: 1rem;
-  background-color: #f7e596;
+  background-color: #d64922;
   border: none;
   border-radius: 4px;
   font: inherit;
@@ -76,7 +76,7 @@ form button {
 }
 
 form button:hover {
-  background-color: #f9e175;
+  background-color: #e9e4ce;
 }
 
 ul {
@@ -142,7 +142,7 @@ li button:hover {
 
 .infobox-warning.warning--low {
   border: 1px solid #f6d84f;
-  color: #f6d84f;
+  color: rgb(246, 160, 79);
 }
 
 .infobox-warning.warning--medium {
